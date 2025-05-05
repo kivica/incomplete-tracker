@@ -22,6 +22,7 @@ py incomplete_gui.py
 
 Here's how the Incomplete Tracker GUI looks while running:
 
-![Incomplete Tracker GUI](./스크린샷%202025-05-06%20082343.png)
+![Incomplete Tracker GUI](./incomplete_gui_screenshot.png)
+
 
 
