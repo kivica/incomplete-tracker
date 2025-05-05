@@ -18,3 +18,8 @@ cd IncompleteTracker
 
 # 2. Run the app
 py incomplete_gui.py
+## 🖥️ Screenshot
+
+Here's how the Incomplete Tracker GUI looks while running:
+
+![Incomplete Tracker GUI](./스크린샷%202025-05-06%20082837.png)
