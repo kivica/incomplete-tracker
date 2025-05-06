@@ -22,7 +22,8 @@ py incomplete_gui.py
 
 Here's how the Incomplete Tracker GUI looks while running:
 
-![Incomplete Tracker GUI](./incomplete_gui_screenshot.png)
 
 
+
+![incomplete_gui_screenshot](https://github.com/user-attachments/assets/7db3507e-a2e9-4a91-a4ba-3f3aede9da51)
 
